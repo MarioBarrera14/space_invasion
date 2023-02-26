@@ -1,0 +1,19 @@
+body {
+  margin:10px; background-image: url("/image/wall.jpg");
+}
+#gameCanvas{ 
+  background-image: url(/image/nub.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  border:#000 1px solid; 
+}
+#canvas-container {
+  width: 80%;
+  height: 500px;
+  margin: 0 auto; /* Esto centra horizontalmente el contenedor */
+  text-align: center; /* Esto centra verticalmente el elemento canvas */
+}
+#myCanvas {
+  width: 100%;
+  height: 100%;
+}
