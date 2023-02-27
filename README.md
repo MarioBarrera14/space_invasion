@@ -14,6 +14,6 @@ La función gameLoop es el ciclo principal del juego, que se ejecuta continuamen
 La función gameOver se llama cuando la nave del jugador colisiona con un enemigo y muestra un mensaje preguntando si el jugador quiere reiniciar el juego. Si el jugador elige reiniciar el juego, se limpian las matrices de balas y enemigos, se restablece la puntuación y se llama a la función gameLoop para comenzar de nuevo.
 
 Por último, se llama a la función gameLoop para iniciar el juego. La función window.requestAnimationFrame() se utiliza para asegurarse de que el juego se ejecute a la velocidad de fotogramas adecuada.
-
+![This is an image](/image/captura.jpeg)
 
 
